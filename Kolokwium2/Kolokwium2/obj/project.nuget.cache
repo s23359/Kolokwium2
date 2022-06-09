@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SablSnqJaqXMJjCAveDfzRyZoKBbigbnq4n0objK9K42SvTiwaXV48wE7bigtXmaLiu7+GgGah8qoUl7PB1hEw==",
+  "dgSpecHash": "k2lWiEzxObdrOLgnimEkY6MxHO5KgyKlFHJaqsGR5y0fotVlB1jf7BfBvQhOxhiikh+vzyyIcULRM4SlQBHW3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\s23359\\Desktop\\Kolokwium2\\Kolokwium2\\Kolokwium2.csproj",
+  "projectFilePath": "C:\\Users\\s23359\\Desktop\\Kolokwium2\\Kolokwium2\\Kolokwium2\\Kolokwium2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\s23359\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\s23359\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

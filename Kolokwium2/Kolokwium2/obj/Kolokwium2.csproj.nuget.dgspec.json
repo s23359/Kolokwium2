@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s23359\\Desktop\\Kolokwium2\\Kolokwium2\\Kolokwium2.csproj": {}
+    "C:\\Users\\s23359\\Desktop\\Kolokwium2\\Kolokwium2\\Kolokwium2\\Kolokwium2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s23359\\Desktop\\Kolokwium2\\Kolokwium2\\Kolokwium2.csproj": {
+    "C:\\Users\\s23359\\Desktop\\Kolokwium2\\Kolokwium2\\Kolokwium2\\Kolokwium2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s23359\\Desktop\\Kolokwium2\\Kolokwium2\\Kolokwium2.csproj",
+        "projectUniqueName": "C:\\Users\\s23359\\Desktop\\Kolokwium2\\Kolokwium2\\Kolokwium2\\Kolokwium2.csproj",
         "projectName": "Kolokwium2",
-        "projectPath": "C:\\Users\\s23359\\Desktop\\Kolokwium2\\Kolokwium2\\Kolokwium2.csproj",
+        "projectPath": "C:\\Users\\s23359\\Desktop\\Kolokwium2\\Kolokwium2\\Kolokwium2\\Kolokwium2.csproj",
         "packagesPath": "C:\\Users\\s23359\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s23359\\Desktop\\Kolokwium2\\Kolokwium2\\obj\\",
+        "outputPath": "C:\\Users\\s23359\\Desktop\\Kolokwium2\\Kolokwium2\\Kolokwium2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
